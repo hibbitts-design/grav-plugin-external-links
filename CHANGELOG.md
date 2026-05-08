@@ -1,5 +1,5 @@
 # v1.6.5
-## XX/XX/2026
+## 05/08/2026
 
 1. [](#improved)
     * Changed plugin author information to HibbittsDesign.org
